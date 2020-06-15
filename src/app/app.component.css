@@ -1,0 +1,22 @@
+.list-item button .material-icons {
+  font-size: 16px;
+  padding: 0;
+}
+
+.list-item:hover button {
+  display: block;
+}
+
+.list-item button {
+  display: none;
+  float: left;
+  margin: -4px 5px;
+  width: 30px;
+  height: 30px;
+}
+
+.fab-add {
+  position: absolute;
+  right: 30px;
+  top: 50px;
+}
